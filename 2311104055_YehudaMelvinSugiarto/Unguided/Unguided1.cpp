@@ -50,7 +50,7 @@ void printList(Node* head) {
     cout << endl;
 }
 
-int bentar() {
+int main() {
     Node* head = nullptr;
 
     insertFirst(head, 10);
